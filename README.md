@@ -15,7 +15,7 @@ First, download the zip file and extract it.
 Then open your terminal - https://alacritty.org/#Installation click this link to install a terminal
 and type
 ```zsh
-pip install PySide6 PyQt6 requests
+pip install PySide6 requests
 python main.py
 ```
 
